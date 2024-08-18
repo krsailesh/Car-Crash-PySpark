@@ -17,7 +17,7 @@ To set up the project on your local machine, follow these steps:
 2. **get started**
    ```bash
    python -m venv venv
-   .venv\Scripts\activate
+   venv\Scripts\activate
 
 3. **Install Dependencies**
    ```bash
