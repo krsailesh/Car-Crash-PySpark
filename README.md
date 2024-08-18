@@ -12,7 +12,7 @@ To set up the project on your local machine, follow these steps:
 
    ```bash
    git clone https://github.com/krsailesh/Car-Crash-PySpark.git
-   cd repository
+   cd Car-Crash-PySpark
    
 2. **get started**
    ```bash
