@@ -1,0 +1,11 @@
+data_paths:
+  charges: "C:\\Users\\krsai\\PycharmProjects\\Car Analysis Project\\data\\Charges_use.csv"
+  endorsements: "C:\\Users\\krsai\\PycharmProjects\\Car Analysis Project\\data\\Endorse_use.csv"
+  restrict: "C:\\Users\\krsai\\PycharmProjects\\Car Analysis Project\\data\\Restrict_use.csv"
+  damages: "C:\\Users\\krsai\\PycharmProjects\\Car Analysis Project\\data\\Damages_use.csv"
+  primary_person: "C:\\Users\\krsai\\PycharmProjects\\Car Analysis Project\\data\\Primary_Person_use.csv"
+  units: "C:\\Users\\krsai\\PycharmProjects\\Car Analysis Project\\data\\Units_use.csv"
+
+output_paths:
+  analytics_results: "C:\\Users\\krsai\\PycharmProjects\\Car Analysis Project\\output\\"
+
