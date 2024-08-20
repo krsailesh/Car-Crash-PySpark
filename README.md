@@ -26,6 +26,6 @@ To set up the project on your local machine, follow these steps:
 4. **Change Data Paths in Config.yaml**
 
    
-5. **Install Dependencies**
+5. **Running the project**
    ```bash
-   pip install pyspark pyyaml pandas
+   spark-submit main.py
